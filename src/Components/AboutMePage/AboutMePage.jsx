@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function AboutMePage() {
   return (
-    <div className='container my-5'>
+    <div style={{paddingTop:'150px' , paddingBottom:'150px'}} className='container '>
       <div className="row">
         <div className="col-12 col-md-4">
           <h1>About me</h1>
