@@ -10,10 +10,8 @@ export default function ColorSchemesExample() {
         <Container>
           <Navbar.Brand >Navbar</Navbar.Brand>
           <Nav className="ms-auto">
-            <Link className='text-decoration-none mx-2' to="/">Title</Link>
-            <Link className='text-decoration-none mx-2 ' to="/aboutme">About</Link>
-            <Link className='text-decoration-none mx-2' to="/skills">Skills</Link>
-            <Link className='text-decoration-none mx-2 ' to="/portfolio">Portfolio</Link>
+            <Link className='text-decoration-none mx-2' to="/">Movies</Link>
+            <Link className='text-decoration-none mx-2' to="/favorites">Favorites</Link>
 
             
           </Nav>
